@@ -1,0 +1,97 @@
+.section{
+    background-color: white;
+}
+.sec{
+    background-color: rgb(44, 190, 216) ;
+}
+
+.inbox{
+    background-color:white;
+    height: 50px;
+}
+.inbox1{
+    min-height: 300px;
+    text-align: center;
+}
+.sec1{
+    background-color: white;
+}
+.inbox2{
+background-color: white;
+    height: 150px;
+    text-align: center;  
+}
+.inbox3{
+
+    height: 200px;
+    text-align: center;
+}
+.sec2{
+    background-color: black;
+}
+.inbox4{
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    text-emphasis-color: white;
+}
+.inbox5{
+    background-color: white;
+    height: 90px;
+    text-align: center;
+}
+.sec3{
+    background-color: white
+}
+.sec4{
+    background-color: white;
+}
+
+.inbox10{
+    margin-bottom:10px; 
+}
+.inbox11{
+    margin-bottom: 10px;
+}
+.inbox12{
+    background-color:lightslategrey;
+    height: 200px;
+    width: 220px;
+}
+.inbox13{
+    background-color: rgb(95, 95, 135);
+    height: 200px;
+    width: 240px;
+}
+.inbox14{
+    background-color:lightgreen;
+    height: 200px;
+    width: 209px;
+}
+.inbox15{
+    background-color: lightcoral;
+    height: 200px;
+    width: 200px;
+}
+.inbox16{
+    background-color: lightslategray;
+    height: 160px;
+    text-align: center;
+}
+.sec5{
+    background-color: lightslategray;
+}
+.inbox17{
+    background-color: white;
+    height: 100px;
+    text-align: center;
+}
+.sec6{
+    background-color: white;
+}
+
+@media(max-width:575px){
+    .inbox1{
+        height: 237px;
+    }
+}
